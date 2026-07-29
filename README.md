@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0097-interleaving-string) |
+## Database
+|  |
+| ------- |
+| [1280-students-and-examinations](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
