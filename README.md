@@ -26,4 +26,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0113-path-sum-ii) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0113-path-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
