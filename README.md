@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1280-students-and-examinations](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1280-students-and-examinations) |
+| [1321-restaurant-growth](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1321-restaurant-growth) |
 ## Math
 |  |
 | ------- |
