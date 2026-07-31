@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0097-interleaving-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0097-interleaving-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -61,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Hash Table
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Sorting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
