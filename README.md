@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0115-distinct-subsequences) |
 | [0796-rotate-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0796-rotate-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2833-furthest-point-from-origin) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 ## Database
 |  |
