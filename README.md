@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1848-minimum-distance-to-the-target-element) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Recursion
 |  |
