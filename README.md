@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1341-movie-rating](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1341-movie-rating) |
 ## Math
 |  |
 | ------- |
