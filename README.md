@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1406-stone-game-iii) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Database
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
