@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0125-valid-palindrome) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Minimax
 |  |
 | ------- |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3691-maximum-total-subarray-value-ii) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
