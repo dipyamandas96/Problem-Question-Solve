@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2574-left-and-right-sum-differences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2574-left-and-right-sum-differences) |
 | [3689-maximum-total-subarray-value-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3731-find-missing-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3731-find-missing-elements) |
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2161-partition-array-according-to-given-pivot) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
