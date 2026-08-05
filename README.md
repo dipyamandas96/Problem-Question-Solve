@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1406-stone-game-iii) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2126-destroying-asteroids) |
