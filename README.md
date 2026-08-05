@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3093-longest-common-suffix-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3093-longest-common-suffix-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2574-left-and-right-sum-differences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2574-left-and-right-sum-differences) |
+| [3093-longest-common-suffix-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3161-block-placement-queries) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
