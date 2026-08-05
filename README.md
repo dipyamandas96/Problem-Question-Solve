@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2126-destroying-asteroids](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2196-create-binary-tree-from-descriptions) |
