@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0126-word-ladder-ii) |
 | [0796-rotate-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0796-rotate-string) |
+| [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1340-jump-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1406-stone-game-iii) |
+| [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Database
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2574-left-and-right-sum-differences) |
 ## Enumeration
 |  |
@@ -288,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3093-longest-common-suffix-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3093-longest-common-suffix-queries) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
