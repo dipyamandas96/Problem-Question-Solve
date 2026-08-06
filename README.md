@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0131-palindrome-partitioning) |
 | [0796-rotate-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0796-rotate-string) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1340-jump-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1340-jump-game-v) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0131-palindrome-partitioning) |
 ## Tree
 |  |
 | ------- |
