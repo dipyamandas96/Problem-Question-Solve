@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0257-binary-tree-paths) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0257-binary-tree-paths) |
 | [3310-remove-methods-from-project](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3310-remove-methods-from-project) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0257-binary-tree-paths) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Linked List
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
