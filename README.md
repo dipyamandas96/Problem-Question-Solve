@@ -188,11 +188,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0160-intersection-of-two-linked-lists) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2540-minimum-common-value) |
