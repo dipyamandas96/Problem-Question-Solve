@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0140-word-break-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0160-intersection-of-two-linked-lists) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -456,4 +458,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0139-word-break) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
