@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0257-binary-tree-paths) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0140-word-break-ii) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0160-intersection-of-two-linked-lists) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0216-combination-sum-iii) |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0212-word-search-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -411,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0140-word-break-ii) |
 ## Matrix
 |  |
@@ -438,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0130-surrounded-regions) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
