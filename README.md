@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3345-smallest-divisible-digit-product-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3783-mirror-distance-of-an-integer) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1306-jump-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
 | [3310-remove-methods-from-project](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3310-remove-methods-from-project) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Hash Table
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3731-find-missing-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sorting
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3093-longest-common-suffix-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3660-jump-game-ix) |
@@ -479,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
