@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0160-intersection-of-two-linked-lists) |
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1406-stone-game-iii) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1861-rotating-the-box) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2574-left-and-right-sum-differences) |
 ## Enumeration
