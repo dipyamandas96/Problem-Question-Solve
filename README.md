@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3660-jump-game-ix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3660-jump-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2553-separate-the-digits-in-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
