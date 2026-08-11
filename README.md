@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2540-minimum-common-value](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2126-destroying-asteroids](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2574-left-and-right-sum-differences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3161-block-placement-queries) |
