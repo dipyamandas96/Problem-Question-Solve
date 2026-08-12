@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0168-excel-sheet-column-title](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0189-rotate-array) |
 | [0212-word-search-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0216-combination-sum-iii) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0189-rotate-array) |
 | [1861-rotating-the-box](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2540-minimum-common-value) |
