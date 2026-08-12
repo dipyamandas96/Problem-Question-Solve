@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0190-reverse-bits) |
 ## Graph Theory
 |  |
 | ------- |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0190-reverse-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Memoization
 |  |
