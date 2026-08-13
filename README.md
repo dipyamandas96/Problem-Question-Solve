@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0187-repeated-dna-sequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0217-contains-duplicate) |
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0217-contains-duplicate) |
 | [1340-jump-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2126-destroying-asteroids) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0189-rotate-array) |
 | [0212-word-search-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
