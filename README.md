@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0171-excel-sheet-column-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0166-fraction-to-recurring-decimal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0202-happy-number) |
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0165-compare-version-numbers](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0202-happy-number) |
 | [1861-rotating-the-box](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2540-minimum-common-value) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0202-happy-number) |
 ## Nim Game
 |  |
 | ------- |
