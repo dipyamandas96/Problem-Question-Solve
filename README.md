@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0147-insertion-sort-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0203-remove-linked-list-elements) |
 ## Stack
 |  |
 | ------- |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
