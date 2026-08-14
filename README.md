@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0187-repeated-dna-sequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0257-binary-tree-paths) |
 | [0657-robot-return-to-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0657-robot-return-to-origin) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0257-binary-tree-paths) |
 | [1306-jump-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1306-jump-game-iii) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0212-word-search-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3093-longest-common-suffix-queries) |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0225-implement-stack-using-queues) |
 ## Doubly-Linked List
 |  |
