@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0187-repeated-dna-sequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0201-bitwise-and-of-numbers-range) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Memoization
 |  |
