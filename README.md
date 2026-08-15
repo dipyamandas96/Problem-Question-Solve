@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0203-remove-linked-list-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0191-number-of-1-bits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0231-power-of-two) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Memoization
