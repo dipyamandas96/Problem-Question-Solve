@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0229-majority-element-ii) |
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0229-majority-element-ii) |
 | [1340-jump-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2126-destroying-asteroids) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0229-majority-element-ii) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2833-furthest-point-from-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0229-majority-element-ii) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -679,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0229-majority-element-ii) |
 ## Rolling Hash
 |  |
 | ------- |
