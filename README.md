@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0214-shortest-palindrome](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0257-binary-tree-paths) |
 | [0657-robot-return-to-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0796-rotate-string) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0242-valid-anagram) |
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0218-the-skyline-problem](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0242-valid-anagram) |
 | [1340-jump-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2126-destroying-asteroids) |
