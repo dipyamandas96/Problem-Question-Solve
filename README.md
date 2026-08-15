@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0220-contains-duplicate-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0190-reverse-bits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0191-number-of-1-bits) |
 | [0218-the-skyline-problem](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0218-the-skyline-problem) |
+| [0240-search-a-2d-matrix-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0240-search-a-2d-matrix-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0240-search-a-2d-matrix-ii) |
 | [2540-minimum-common-value](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0174-dungeon-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0212-word-search-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0240-search-a-2d-matrix-ii) |
 | [1861-rotating-the-box](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1861-rotating-the-box) |
 ## Number Theory
 |  |
