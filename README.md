@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0214-shortest-palindrome](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0257-binary-tree-paths) |
 | [0657-robot-return-to-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0657-robot-return-to-origin) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0227-basic-calculator-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -633,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0139-word-break](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0241-different-ways-to-add-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -785,4 +790,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0239-sliding-window-maximum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
