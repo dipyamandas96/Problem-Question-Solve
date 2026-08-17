@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0275-h-index-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0284-peeking-iterator) |
+| [0287-find-the-duplicate-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0287-find-the-duplicate-number) |
 | [1861-rotating-the-box](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2540-minimum-common-value) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0287-find-the-duplicate-number) |
 | [2540-minimum-common-value](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0287-find-the-duplicate-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Memoization
@@ -690,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0287-find-the-duplicate-number) |
 ## Nim Game
 |  |
 | ------- |
@@ -752,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0287-find-the-duplicate-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
