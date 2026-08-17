@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0283-move-zeroes) |
 | [1861-rotating-the-box](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2540-minimum-common-value) |
