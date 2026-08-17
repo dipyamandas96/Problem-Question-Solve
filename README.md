@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0282-expression-add-operators) |
+| [0290-word-pattern](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0290-word-pattern) |
 | [0657-robot-return-to-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0796-rotate-string) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0264-ugly-number-ii) |
+| [0290-word-pattern](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0290-word-pattern) |
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1674-minimum-moves-to-make-array-complementary) |
