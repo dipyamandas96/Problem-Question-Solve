@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1340-jump-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1563-stone-game-v) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
 | [1406-stone-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1406-stone-game-iii) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1563-stone-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1563-stone-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2029-stone-game-ix) |
 ## String Matching
 |  |
