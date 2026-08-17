@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0278-first-bad-version) |
 | [2540-minimum-common-value](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -819,4 +820,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0274-h-index](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0274-h-index) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
