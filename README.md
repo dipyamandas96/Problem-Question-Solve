@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0273-integer-to-english-words](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0657-robot-return-to-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0796-rotate-string) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1306-jump-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1306-jump-game-iii) |
 | [3310-remove-methods-from-project](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Linked List
 |  |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1306-jump-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
 | [3310-remove-methods-from-project](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3310-remove-methods-from-project) |
@@ -740,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
