@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0310-minimum-height-trees) |
 | [1306-jump-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1306-jump-game-iii) |
 | [3310-remove-methods-from-project](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0279-perfect-squares](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0310-minimum-height-trees) |
 | [1306-jump-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
 | [3310-remove-methods-from-project](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3310-remove-methods-from-project) |
@@ -544,12 +546,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0310-minimum-height-trees) |
 | [3310-remove-methods-from-project](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0310-minimum-height-trees) |
 ## Two Pointers
 |  |
 | ------- |
