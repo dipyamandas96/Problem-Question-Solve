@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0292-nim-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
