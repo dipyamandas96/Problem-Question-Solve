@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0304-range-sum-query-2d-immutable) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0304-range-sum-query-2d-immutable) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0304-range-sum-query-2d-immutable) |
 | [1861-rotating-the-box](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1861-rotating-the-box) |
 ## Number Theory
 |  |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0304-range-sum-query-2d-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
