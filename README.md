@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0295-find-median-from-data-stream) |
 | [1340-jump-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2126-destroying-asteroids) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0295-find-median-from-data-stream) |
 | [1861-rotating-the-box](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2540-minimum-common-value) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0218-the-skyline-problem](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0295-find-median-from-data-stream) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Simulation
 |  |
@@ -736,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0284-peeking-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -872,4 +876,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0292-nim-game) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
