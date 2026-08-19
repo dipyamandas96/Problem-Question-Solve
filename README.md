@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0318-maximum-product-of-word-lengths) |
+| [0338-counting-bits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
