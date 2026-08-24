@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
