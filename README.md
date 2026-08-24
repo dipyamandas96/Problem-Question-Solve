@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0347-top-k-frequent-elements) |
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1386-cinema-seat-allocation) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0274-h-index](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0347-top-k-frequent-elements) |
 | [1340-jump-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2126-destroying-asteroids) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0347-top-k-frequent-elements) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2029-stone-game-ix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2833-furthest-point-from-origin) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0332-reconstruct-itinerary](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0332-reconstruct-itinerary) |
 | [0335-self-crossing](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0307-range-sum-query-mutable](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0347-top-k-frequent-elements) |
 ## Graph Theory
 |  |
 | ------- |
@@ -683,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0264-ugly-number-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0347-top-k-frequent-elements) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Simulation
 |  |
@@ -889,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0164-maximum-gap](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -1043,4 +1050,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0332-reconstruct-itinerary) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
