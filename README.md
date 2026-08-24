@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0318-maximum-product-of-word-lengths](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0332-reconstruct-itinerary) |
+| [0336-palindrome-pairs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0336-palindrome-pairs) |
 | [0657-robot-return-to-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0796-rotate-string) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0264-ugly-number-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0299-bulls-and-cows) |
+| [0336-palindrome-pairs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0336-palindrome-pairs) |
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1386-cinema-seat-allocation) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0332-reconstruct-itinerary) |
 | [0335-self-crossing](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0336-palindrome-pairs) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -738,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0336-palindrome-pairs) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3093-longest-common-suffix-queries) |
 ## Sliding Window
@@ -891,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0214-shortest-palindrome) |
+| [0336-palindrome-pairs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0336-palindrome-pairs) |
 ## Z Algorithm
 |  |
 | ------- |
