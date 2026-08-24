@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0319-bulb-switcher](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0335-self-crossing) |
+| [0342-power-of-four](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0241-different-ways-to-add-parentheses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
