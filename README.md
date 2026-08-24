@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1386-cinema-seat-allocation) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0327-count-of-range-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2540-minimum-common-value](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3161-block-placement-queries) |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0220-contains-duplicate-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3161-block-placement-queries) |
 ## Trie
@@ -857,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0200-number-of-islands) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -877,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0304-range-sum-query-2d-immutable](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0341-flatten-nested-list-iterator) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1027,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0295-find-median-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
