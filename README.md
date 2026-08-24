@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1872-stone-game-viii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-longest-common-suffix-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3093-longest-common-suffix-queries) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2540-minimum-common-value](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2540-minimum-common-value) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -738,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Memoization
 |  |
@@ -760,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0204-count-primes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0258-add-digits) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Floyd's Cycle Finding Algorithm
@@ -960,4 +965,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
