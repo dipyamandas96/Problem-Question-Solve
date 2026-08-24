@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0315-count-of-smaller-numbers-after-self](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0322-coin-change) |
+| [0327-count-of-range-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0327-count-of-range-sum) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0327-count-of-range-sum) |
 ## Graph Theory
 |  |
 | ------- |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0218-the-skyline-problem](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0327-count-of-range-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -685,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0327-count-of-range-sum) |
 | [2540-minimum-common-value](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3161-block-placement-queries) |
@@ -696,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0218-the-skyline-problem](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0327-count-of-range-sum) |
 | [3161-block-placement-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3161-block-placement-queries) |
 ## Ordered Set
 |  |
@@ -703,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0218-the-skyline-problem](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0327-count-of-range-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3161-block-placement-queries) |
 ## Trie
@@ -821,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0148-sort-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0327-count-of-range-sum) |
 ## Geometry
 |  |
 | ------- |
@@ -968,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0327-count-of-range-sum) |
 ## Combinatorics
 |  |
 | ------- |
