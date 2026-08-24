@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0313-super-ugly-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0335-self-crossing) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0327-count-of-range-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0332-reconstruct-itinerary) |
+| [0335-self-crossing](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0335-self-crossing) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0149-max-points-on-a-line) |
+| [0335-self-crossing](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0335-self-crossing) |
 ## Euclidean Algorithm
 |  |
 | ------- |
