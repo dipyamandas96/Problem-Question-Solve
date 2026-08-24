@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0365-water-and-jug-problem) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0332-reconstruct-itinerary](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0365-water-and-jug-problem) |
 | [1306-jump-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1306-jump-game-iii) |
 | [3310-remove-methods-from-project](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0310-minimum-height-trees](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0365-water-and-jug-problem) |
 | [1306-jump-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
 | [3310-remove-methods-from-project](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3310-remove-methods-from-project) |
@@ -917,10 +920,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0149-max-points-on-a-line) |
+| [0365-water-and-jug-problem](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0365-water-and-jug-problem) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0149-max-points-on-a-line) |
+| [0365-water-and-jug-problem](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0365-water-and-jug-problem) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1087,4 +1092,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0347-top-k-frequent-elements) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
