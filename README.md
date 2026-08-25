@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0796-rotate-string) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2833-furthest-point-from-origin) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-stone-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1872-stone-game-viii) |
+| [1927-sum-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1386-cinema-seat-allocation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1927-sum-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2126-destroying-asteroids) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-stone-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1872-stone-game-viii) |
+| [1927-sum-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2029-stone-game-ix) |
 ## String Matching
 |  |
