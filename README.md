@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0354-russian-doll-envelopes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1510-stone-game-iv) |
