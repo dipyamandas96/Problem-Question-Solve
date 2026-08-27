@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0796-rotate-string) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0389-find-the-difference) |
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1386-cinema-seat-allocation) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0354-russian-doll-envelopes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0389-find-the-difference) |
 | [1340-jump-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2126-destroying-asteroids) |
@@ -878,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
