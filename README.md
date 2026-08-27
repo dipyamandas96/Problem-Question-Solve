@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0375-guess-number-higher-or-lower-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0382-linked-list-random-node) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0237-delete-node-in-a-linked-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0355-design-twitter) |
+| [0382-linked-list-random-node](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0382-linked-list-random-node) |
 ## Stack
 |  |
 | ------- |
@@ -1163,4 +1165,9 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0382-linked-list-random-node) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
