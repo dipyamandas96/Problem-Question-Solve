@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0403-frog-jump](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -1178,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0279-perfect-squares](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1285,4 +1288,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0402-remove-k-digits) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
