@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0657-robot-return-to-origin) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0365-water-and-jug-problem](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0386-lexicographical-numbers) |
+| [0388-longest-absolute-file-path](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0388-longest-absolute-file-path) |
 | [0404-sum-of-left-leaves](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0404-sum-of-left-leaves) |
 | [1306-jump-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1306-jump-game-iii) |
 | [3310-remove-methods-from-project](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3310-remove-methods-from-project) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0385-mini-parser) |
+| [0388-longest-absolute-file-path](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0388-longest-absolute-file-path) |
 ## Breadth-First Search
 |  |
 | ------- |
