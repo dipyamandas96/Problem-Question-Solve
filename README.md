@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0365-water-and-jug-problem](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0407-trapping-rain-water-ii) |
 | [1306-jump-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
 | [3310-remove-methods-from-project](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3310-remove-methods-from-project) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0399-evaluate-division](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0406-queue-reconstruction-by-height) |
+| [0407-trapping-rain-water-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0407-trapping-rain-water-ii) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0355-design-twitter](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0407-trapping-rain-water-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Simulation
 |  |
@@ -970,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0407-trapping-rain-water-ii) |
 | [1861-rotating-the-box](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1861-rotating-the-box) |
 ## Number Theory
 |  |
