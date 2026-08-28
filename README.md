@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0397-integer-replacement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0406-queue-reconstruction-by-height](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -931,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0220-contains-duplicate-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0413-arithmetic-slices) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
