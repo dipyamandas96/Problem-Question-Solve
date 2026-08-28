@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0341-flatten-nested-list-iterator](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0404-sum-of-left-leaves) |
 | [1306-jump-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1306-jump-game-iii) |
 | [3310-remove-methods-from-project](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3310-remove-methods-from-project) |
@@ -866,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0211-design-add-and-search-words-data-structure](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0336-palindrome-pairs) |
+| [0386-lexicographical-numbers](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0386-lexicographical-numbers) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3093-longest-common-suffix-queries) |
 ## Sliding Window
