@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0397-integer-replacement) |
+| [0403-frog-jump](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0393-utf-8-validation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
