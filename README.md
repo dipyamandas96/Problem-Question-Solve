@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0382-linked-list-random-node](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0390-elimination-game) |
+| [0391-perfect-rectangle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0391-perfect-rectangle) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0389-find-the-difference) |
+| [0391-perfect-rectangle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0391-perfect-rectangle) |
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1386-cinema-seat-allocation) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0380-insert-delete-getrandom-o1](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0384-shuffle-an-array) |
+| [0391-perfect-rectangle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0391-perfect-rectangle) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -1003,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0335-self-crossing) |
+| [0391-perfect-rectangle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0391-perfect-rectangle) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -1085,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0218-the-skyline-problem) |
+| [0391-perfect-rectangle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0391-perfect-rectangle) |
 ## Binary Lifting
 |  |
 | ------- |
