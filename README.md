@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0388-longest-absolute-file-path](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0394-decode-string) |
 | [0657-robot-return-to-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0796-rotate-string) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0341-flatten-nested-list-iterator](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0394-decode-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
