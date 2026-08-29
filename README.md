@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0420-strong-password-checker](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0420-strong-password-checker) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0424-longest-repeating-character-replacement) |
+| [0434-number-of-segments-in-a-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0434-number-of-segments-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0796-rotate-string) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
