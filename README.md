@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0420-strong-password-checker) |
+| [0435-non-overlapping-intervals](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0435-non-overlapping-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1386-cinema-seat-allocation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1927-sum-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1927-sum-game) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0435-non-overlapping-intervals) |
 | [1340-jump-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2126-destroying-asteroids) |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0419-battleships-in-a-board](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0427-construct-quad-tree) |
+| [0435-non-overlapping-intervals](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
