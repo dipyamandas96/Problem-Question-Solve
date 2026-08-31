@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0382-linked-list-random-node](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0382-linked-list-random-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0432-all-oone-data-structure) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Stack
 |  |
 | ------- |
