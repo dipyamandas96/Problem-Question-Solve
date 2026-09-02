@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3718-smallest-missing-multiple-of-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
