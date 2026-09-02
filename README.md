@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3220-odd-and-even-transactions) |
 | [3436-find-valid-emails](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3436-find-valid-emails) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3465-find-products-with-valid-serial-numbers) |
 ## Math
 |  |
 | ------- |
