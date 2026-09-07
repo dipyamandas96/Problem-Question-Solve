@@ -711,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0480-sliding-window-median](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0594-longest-harmonious-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -1041,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0480-sliding-window-median](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0713-subarray-product-less-than-k) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
