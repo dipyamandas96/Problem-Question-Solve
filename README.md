@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Sorting
 |  |
 | ------- |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3718-smallest-missing-multiple-of-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
@@ -1076,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Bit Manipulation
 |  |
 | ------- |
