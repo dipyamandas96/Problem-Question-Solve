@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0796-rotate-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0940-distinct-subsequences-ii) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1386-cinema-seat-allocation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1386-cinema-seat-allocation) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0594-longest-harmonious-subsequence) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1051,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0713-subarray-product-less-than-k) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
