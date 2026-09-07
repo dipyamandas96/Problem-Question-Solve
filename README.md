@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0658-find-k-closest-elements) |
 | [1340-jump-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2784-check-if-array-is-good) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1848-minimum-distance-to-the-target-element](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1872-stone-game-viii) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2029-stone-game-ix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -1055,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0713-subarray-product-less-than-k) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
