@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0940-distinct-subsequences-ii) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
 | [1340-jump-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1406-stone-game-iii) |
