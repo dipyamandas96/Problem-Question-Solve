@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0427-construct-quad-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0427-construct-quad-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0437-path-sum-iii) |
+| [0508-most-frequent-subtree-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0508-most-frequent-subtree-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0437-path-sum-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0472-concatenated-words) |
+| [0508-most-frequent-subtree-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0508-most-frequent-subtree-sum) |
 | [1306-jump-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1306-jump-game-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3310-remove-methods-from-project) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0337-house-robber-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0437-path-sum-iii) |
+| [0508-most-frequent-subtree-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0508-most-frequent-subtree-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0447-number-of-boomerangs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0480-sliding-window-median](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0480-sliding-window-median) |
+| [0508-most-frequent-subtree-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0508-most-frequent-subtree-sum) |
 | [0567-permutation-in-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0594-longest-harmonious-subsequence) |
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
@@ -925,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0337-house-robber-iii) |
+| [0508-most-frequent-subtree-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0508-most-frequent-subtree-sum) |
 ## Bidirectional Search
 |  |
 | ------- |
