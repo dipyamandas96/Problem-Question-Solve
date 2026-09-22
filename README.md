@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0437-path-sum-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0513-find-bottom-left-tree-value) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -890,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0427-construct-quad-tree) |
 | [0493-reverse-pairs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0493-reverse-pairs) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 ## Graph Theory
 |  |
 | ------- |
