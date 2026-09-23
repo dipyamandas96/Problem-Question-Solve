@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0500-keyboard-row](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0504-base-7) |
 | [0514-freedom-trail](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0514-freedom-trail) |
+| [0520-detect-capital](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0606-construct-string-from-binary-tree) |
 | [0657-robot-return-to-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0657-robot-return-to-origin) |
