@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0468-validate-ip-address](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0472-concatenated-words) |
 | [0500-keyboard-row](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0504-base-7) |
 | [0514-freedom-trail](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0514-freedom-trail) |
 | [0567-permutation-in-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0606-construct-string-from-binary-tree) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0483-smallest-good-base](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0504-base-7](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0504-base-7) |
 | [0528-random-pick-with-weight](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0528-random-pick-with-weight) |
 | [0836-rectangle-overlap](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
