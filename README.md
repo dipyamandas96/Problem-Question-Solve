@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0520-detect-capital](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0606-construct-string-from-binary-tree) |
 | [0657-robot-return-to-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0657-robot-return-to-origin) |
