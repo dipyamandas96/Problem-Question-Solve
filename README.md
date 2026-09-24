@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0445-add-two-numbers-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0478-generate-random-point-in-a-circle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0478-generate-random-point-in-a-circle) |
 | [0483-smallest-good-base](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0497-random-point-in-non-overlapping-rectangles) |
@@ -1391,6 +1392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0149-max-points-on-a-line](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0391-perfect-rectangle) |
+| [0478-generate-random-point-in-a-circle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0478-generate-random-point-in-a-circle) |
 | [0593-valid-square](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0593-valid-square) |
 | [0812-largest-triangle-area](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0836-rectangle-overlap) |
@@ -1613,6 +1615,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0382-linked-list-random-node](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0398-random-pick-index) |
+| [0478-generate-random-point-in-a-circle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0478-generate-random-point-in-a-circle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0528-random-pick-with-weight) |
 ## Reservoir Sampling
@@ -1654,4 +1657,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0858-mirror-reflection) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0478-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
