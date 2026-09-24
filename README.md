@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2029-stone-game-ix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2029-stone-game-ix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -1397,6 +1398,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1037-valid-boomerang](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1266-minimum-time-visiting-all-points) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Euclidean Algorithm
 |  |
 | ------- |
