@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1037-valid-boomerang](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1037-valid-boomerang) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1266-minimum-time-visiting-all-points](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1266-minimum-time-visiting-all-points) |
 | [1406-stone-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1563-stone-game-v) |
@@ -857,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1037-valid-boomerang](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1037-valid-boomerang) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1266-minimum-time-visiting-all-points](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1266-minimum-time-visiting-all-points) |
 | [1306-jump-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
@@ -1394,6 +1396,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1030-matrix-cells-in-distance-order](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1266-minimum-time-visiting-all-points](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1266-minimum-time-visiting-all-points) |
 ## Euclidean Algorithm
 |  |
 | ------- |
