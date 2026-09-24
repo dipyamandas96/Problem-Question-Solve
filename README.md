@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0504-base-7) |
 | [0528-random-pick-with-weight](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0528-random-pick-with-weight) |
+| [0593-valid-square](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -1369,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0149-max-points-on-a-line](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0391-perfect-rectangle) |
+| [0593-valid-square](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0836-rectangle-overlap) |
 ## Euclidean Algorithm
 |  |
