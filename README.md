@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0306-additive-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0401-binary-watch) |
+| [1096-brace-expansion-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0456-132-pattern](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0456-132-pattern) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0617-merge-two-binary-trees](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
 | [3310-remove-methods-from-project](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3310-remove-methods-from-project) |
@@ -646,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0594-longest-harmonious-subsequence) |
 | [0652-find-duplicate-subtrees](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0652-find-duplicate-subtrees) |
+| [1096-brace-expansion-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1096-brace-expansion-ii) |
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -710,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0658-find-k-closest-elements) |
 | [1030-matrix-cells-in-distance-order](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1030-matrix-cells-in-distance-order) |
+| [1096-brace-expansion-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1096-brace-expansion-ii) |
 | [1340-jump-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1340-jump-game-v) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
