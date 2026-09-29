@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0561-array-partition) |
 | [1386-cinema-seat-allocation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0472-concatenated-words](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0658-find-k-closest-elements) |
 | [1030-matrix-cells-in-distance-order](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1030-matrix-cells-in-distance-order) |
@@ -861,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0500-keyboard-row](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0506-relative-ranks) |
 | [0528-random-pick-with-weight](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0528-random-pick-with-weight) |
+| [0561-array-partition](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0658-find-k-closest-elements) |
@@ -1532,6 +1535,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0274-h-index](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0561-array-partition) |
 ## Interactive
 |  |
 | ------- |
