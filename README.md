@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0115-distinct-subsequences) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0022-generate-parentheses) |
 | [0097-interleaving-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0120-triangle) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0126-word-ladder-ii) |
@@ -1531,6 +1534,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0241-different-ways-to-add-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
