@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0464-can-i-win](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0464-can-i-win) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0447-number-of-boomerangs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0464-can-i-win](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0464-can-i-win) |
 | [0478-generate-random-point-in-a-circle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0478-generate-random-point-in-a-circle) |
 | [0483-smallest-good-base](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
@@ -975,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0292-nim-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0464-can-i-win](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -1308,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0401-binary-watch](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0461-hamming-distance) |
+| [0464-can-i-win](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0464-can-i-win) |
 | [1386-cinema-seat-allocation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1321,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0241-different-ways-to-add-parentheses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0464-can-i-win) |
 ## Matrix
 |  |
 | ------- |
@@ -1701,4 +1706,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0478-generate-random-point-in-a-circle) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
