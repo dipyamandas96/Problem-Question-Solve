@@ -1321,6 +1321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0473-matchsticks-to-square](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0693-binary-number-with-alternating-bits) |
 | [1386-cinema-seat-allocation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
