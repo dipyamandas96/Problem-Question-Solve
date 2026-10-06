@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0637-average-of-levels-in-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0654-maximum-binary-tree) |
+| [0655-print-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0655-print-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0623-add-one-row-to-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0652-find-duplicate-subtrees) |
+| [0655-print-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0655-print-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1306-jump-game-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0637-average-of-levels-in-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0654-maximum-binary-tree) |
+| [0655-print-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0655-print-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0617-merge-two-binary-trees](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0655-print-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0655-print-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1345-jump-game-iv) |
