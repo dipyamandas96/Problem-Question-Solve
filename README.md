@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0654-maximum-binary-tree) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0454-4sum-ii) |
 | [0480-sliding-window-median](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0480-sliding-window-median) |
+| [0496-next-greater-element-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0508-most-frequent-subtree-sum) |
 | [0567-permutation-in-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0567-permutation-in-string) |
@@ -929,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0480-sliding-window-median](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0500-keyboard-row](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0506-relative-ranks) |
@@ -1762,6 +1765,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0402-remove-k-digits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0654-maximum-binary-tree) |
 ## 0-1 Knapsack
 |  |
