@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0783-minimum-distance-between-bst-nodes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0897-increasing-order-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0783-minimum-distance-between-bst-nodes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0897-increasing-order-search-tree) |
 | [1306-jump-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1306-jump-game-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3310-remove-methods-from-project) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0783-minimum-distance-between-bst-nodes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0897-increasing-order-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0654-maximum-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0856-score-of-parentheses) |
+| [0897-increasing-order-search-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1786,4 +1790,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
