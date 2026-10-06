@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0357-count-numbers-with-unique-digits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0473-matchsticks-to-square) |
+| [0491-non-decreasing-subsequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0491-non-decreasing-subsequences) |
 | [1096-brace-expansion-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0454-4sum-ii) |
 | [0480-sliding-window-median](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0480-sliding-window-median) |
+| [0491-non-decreasing-subsequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0508-most-frequent-subtree-sum) |
@@ -930,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0475-heaters](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0475-heaters) |
 | [0480-sliding-window-median](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0497-random-point-in-non-overlapping-rectangles) |
@@ -1380,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0464-can-i-win](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0476-number-complement) |
+| [0491-non-decreasing-subsequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
