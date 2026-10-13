@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0678-valid-parenthesis-string) |
 | [0691-stickers-to-spell-word](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0773-sliding-puzzle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0773-sliding-puzzle) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0691-stickers-to-spell-word](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0756-pyramid-transition-matrix) |
+| [0773-sliding-puzzle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0773-sliding-puzzle) |
 | [1096-brace-expansion-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0637-average-of-levels-in-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0662-maximum-width-of-binary-tree) |
+| [0773-sliding-puzzle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0773-sliding-puzzle) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0965-univalued-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1096-brace-expansion-ii) |
@@ -975,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0691-stickers-to-spell-word](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0713-subarray-product-less-than-k) |
+| [0773-sliding-puzzle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0773-sliding-puzzle) |
 | [0812-largest-triangle-area](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
@@ -1201,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0126-word-ladder-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0433-minimum-genetic-mutation) |
+| [0773-sliding-puzzle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0773-sliding-puzzle) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1444,6 +1449,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0638-shopping-offers](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0773-sliding-puzzle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0773-sliding-puzzle) |
 ## Matrix
 |  |
 | ------- |
@@ -1462,6 +1468,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0419-battleships-in-a-board](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0463-island-perimeter) |
+| [0773-sliding-puzzle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0773-sliding-puzzle) |
 | [0832-flipping-an-image](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0832-flipping-an-image) |
 | [0883-projection-area-of-3d-shapes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0892-surface-area-of-3d-shapes) |
@@ -1860,4 +1867,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0783-minimum-distance-between-bst-nodes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0938-range-sum-of-bst) |
+## Heuristic Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0773-sliding-puzzle) |
+## A* Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0773-sliding-puzzle) |
 <!---LeetCode Topics End-->
