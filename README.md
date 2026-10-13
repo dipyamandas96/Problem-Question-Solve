@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0472-concatenated-words](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0514-freedom-trail) |
 | [0678-valid-parenthesis-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0401-binary-watch](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
@@ -940,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0500-keyboard-row](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0500-keyboard-row) |
@@ -1665,6 +1668,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0279-perfect-squares](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1787,6 +1791,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0494-target-sum) |
 ## Quicksort
 |  |
 | ------- |
