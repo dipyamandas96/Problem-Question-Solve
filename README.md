@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0514-freedom-trail) |
+| [0526-beautiful-arrangement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0526-beautiful-arrangement) |
 | [0678-valid-parenthesis-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0940-distinct-subsequences-ii) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0473-matchsticks-to-square](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0526-beautiful-arrangement) |
 | [1096-brace-expansion-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
@@ -947,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0500-keyboard-row](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0506-relative-ranks) |
+| [0526-beautiful-arrangement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0526-beautiful-arrangement) |
 | [0528-random-pick-with-weight](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0528-random-pick-with-weight) |
 | [0561-array-partition](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0594-longest-harmonious-subsequence) |
@@ -1397,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0473-matchsticks-to-square](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -1813,6 +1817,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0464-can-i-win](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0473-matchsticks-to-square) |
+| [0526-beautiful-arrangement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0526-beautiful-arrangement) |
 ## Cartesian Tree
 |  |
 | ------- |
