@@ -748,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0522-longest-uncommon-subsequence-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0645-set-mismatch) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0475-heaters](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0645-set-mismatch) |
@@ -979,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0526-beautiful-arrangement) |
 | [0528-random-pick-with-weight](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0528-random-pick-with-weight) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0594-longest-harmonious-subsequence) |
 | [0638-shopping-offers](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0638-shopping-offers) |
@@ -1173,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0567-permutation-in-string) |
@@ -1331,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0493-reverse-pairs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0528-random-pick-with-weight) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0713-subarray-product-less-than-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
