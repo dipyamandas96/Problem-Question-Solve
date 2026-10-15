@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0520-detect-capital](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0535-encode-and-decode-tinyurl](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0535-encode-and-decode-tinyurl) |
 | [0541-reverse-string-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0523-continuous-subarray-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0645-set-mismatch) |
@@ -1561,6 +1563,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0432-all-oone-data-structure) |
+| [0535-encode-and-decode-tinyurl](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
 |  |
@@ -1638,6 +1641,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0187-repeated-dna-sequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0336-palindrome-pairs) |
+| [0535-encode-and-decode-tinyurl](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0572-subtree-of-another-tree) |
 ## Z Algorithm
 |  |
