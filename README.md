@@ -747,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0519-random-flip-matrix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0645-set-mismatch) |
@@ -975,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0506-relative-ranks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0526-beautiful-arrangement) |
 | [0528-random-pick-with-weight](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0528-random-pick-with-weight) |
 | [0561-array-partition](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0561-array-partition) |
@@ -1276,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
