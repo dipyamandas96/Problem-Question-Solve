@@ -751,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0535-encode-and-decode-tinyurl) |
+| [0554-brick-wall](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0645-set-mismatch) |
@@ -984,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0526-beautiful-arrangement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0526-beautiful-arrangement) |
 | [0528-random-pick-with-weight](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0554-brick-wall](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0554-brick-wall) |
 | [0561-array-partition](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0594-longest-harmonious-subsequence) |
 | [0638-shopping-offers](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0638-shopping-offers) |
