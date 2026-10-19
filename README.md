@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0458-poor-pigs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0464-can-i-win) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0472-concatenated-words) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0445-add-two-numbers-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0458-poor-pigs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0464-can-i-win) |
 | [0478-generate-random-point-in-a-circle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0478-generate-random-point-in-a-circle) |
@@ -1801,6 +1803,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Combinatorics
 |  |
 | ------- |
+| [0458-poor-pigs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0458-poor-pigs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
