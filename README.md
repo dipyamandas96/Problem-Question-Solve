@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0467-unique-substrings-in-wraparound-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0504-base-7) |
 | [0514-freedom-trail](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0514-freedom-trail) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0467-unique-substrings-in-wraparound-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0514-freedom-trail) |
@@ -982,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0475-heaters) |
 | [0480-sliding-window-median](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
@@ -1759,6 +1762,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0279-perfect-squares](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0638-shopping-offers) |
 ## Complete Knapsack
@@ -1888,6 +1892,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0494-target-sum) |
 ## Quicksort
 |  |
