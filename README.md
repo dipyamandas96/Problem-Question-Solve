@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0546-remove-boxes) |
 | [0638-shopping-offers](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0638-shopping-offers) |
 | [0678-valid-parenthesis-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0678-valid-parenthesis-string) |
 | [0691-stickers-to-spell-word](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0691-stickers-to-spell-word) |
@@ -1014,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0528-random-pick-with-weight](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0546-remove-boxes) |
 | [0554-brick-wall](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0561-array-partition) |
@@ -1516,6 +1518,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0464-can-i-win](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0464-can-i-win) |
 | [0488-zuma-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0509-fibonacci-number) |
+| [0546-remove-boxes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0546-remove-boxes) |
 | [0638-shopping-offers](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0698-partition-to-k-equal-sum-subsets) |
