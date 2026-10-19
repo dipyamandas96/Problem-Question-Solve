@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0468-validate-ip-address](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0474-ones-and-zeroes) |
+| [0488-zuma-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0488-zuma-game) |
 | [0500-keyboard-row](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0504-base-7) |
 | [0514-freedom-trail](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0514-freedom-trail) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0473-matchsticks-to-square](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
+| [0488-zuma-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0488-zuma-game) |
 | [0494-target-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0514-freedom-trail) |
 | [0526-beautiful-arrangement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0526-beautiful-arrangement) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0456-132-pattern) |
+| [0488-zuma-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0488-zuma-game) |
 | [0496-next-greater-element-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -678,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0429-n-ary-tree-level-order-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0433-minimum-genetic-mutation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0463-island-perimeter) |
+| [0488-zuma-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0488-zuma-game) |
 | [0513-find-bottom-left-tree-value](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0514-freedom-trail) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -1500,6 +1504,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0464-can-i-win) |
+| [0488-zuma-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0488-zuma-game) |
 | [0638-shopping-offers](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0698-partition-to-k-equal-sum-subsets) |
