@@ -881,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0646-maximum-length-of-pair-chain](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0692-top-k-frequent-words) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1030-matrix-cells-in-distance-order](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1030-matrix-cells-in-distance-order) |
 | [1096-brace-expansion-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1096-brace-expansion-ii) |
 | [1340-jump-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1340-jump-game-v) |
@@ -1067,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0692-top-k-frequent-words) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0713-subarray-product-less-than-k) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0773-sliding-puzzle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0773-sliding-puzzle) |
 | [0812-largest-triangle-area](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0832-flipping-an-image) |
