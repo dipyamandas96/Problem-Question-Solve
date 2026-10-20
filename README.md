@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0546-remove-boxes) |
 | [0638-shopping-offers](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0638-shopping-offers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0678-valid-parenthesis-string) |
 | [0691-stickers-to-spell-word](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1386-cinema-seat-allocation) |
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0630-course-schedule-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0658-find-k-closest-elements) |
 | [1030-matrix-cells-in-distance-order](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1030-matrix-cells-in-distance-order) |
 | [1096-brace-expansion-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1096-brace-expansion-ii) |
@@ -1052,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0638-shopping-offers](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0658-find-k-closest-elements) |
 | [0679-24-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0679-24-game) |
@@ -1856,6 +1860,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0354-russian-doll-envelopes) |
+| [0646-maximum-length-of-pair-chain](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0646-maximum-length-of-pair-chain) |
 ## Sqrt Decomposition
 |  |
 | ------- |
