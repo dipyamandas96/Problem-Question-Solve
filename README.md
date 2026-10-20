@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0475-heaters) |
+| [0502-ipo](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -1006,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0500-keyboard-row](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0500-keyboard-row) |
+| [0502-ipo](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0518-coin-change-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -1298,6 +1301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0420-strong-password-checker](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0703-kth-largest-element-in-a-stream) |
