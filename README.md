@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0522-longest-uncommon-subsequence-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0535-encode-and-decode-tinyurl](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0535-encode-and-decode-tinyurl) |
+| [0539-minimum-time-difference](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0519-random-flip-matrix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0528-random-pick-with-weight) |
+| [0539-minimum-time-difference](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0539-minimum-time-difference) |
 | [0593-valid-square](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0593-valid-square) |
 | [0679-24-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -855,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0522-longest-uncommon-subsequence-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0645-set-mismatch) |
@@ -1020,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0526-beautiful-arrangement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0526-beautiful-arrangement) |
 | [0528-random-pick-with-weight](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0546-remove-boxes) |
 | [0554-brick-wall](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0554-brick-wall) |
