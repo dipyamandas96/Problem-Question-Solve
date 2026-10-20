@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1386-cinema-seat-allocation) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0645-set-mismatch) |
 | [0652-find-duplicate-subtrees](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0652-find-duplicate-subtrees) |
 | [0691-stickers-to-spell-word](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0691-stickers-to-spell-word) |
@@ -865,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0658-find-k-closest-elements) |
 | [1030-matrix-cells-in-distance-order](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1030-matrix-cells-in-distance-order) |
@@ -898,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0621-task-scheduler) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2029-stone-game-ix) |
@@ -1037,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0621-task-scheduler) |
 | [0638-shopping-offers](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0645-set-mismatch) |
@@ -1320,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0480-sliding-window-median](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
