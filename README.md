@@ -1152,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Recursion
 |  |
 | ------- |
