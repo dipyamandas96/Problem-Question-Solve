@@ -1166,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3875-construct-uniform-parity-array-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3903-smallest-stable-index-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Recursion
 |  |
@@ -1403,6 +1404,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1872-stone-game-viii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3364-minimum-positive-sum-subarray) |
+| [3903-smallest-stable-index-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
 |  |
 | ------- |
