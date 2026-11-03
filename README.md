@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0897-increasing-order-search-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0965-univalued-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0897-increasing-order-search-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0965-univalued-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0856-score-of-parentheses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1087,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0892-surface-area-of-3d-shapes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1030-matrix-cells-in-distance-order](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1037-valid-boomerang) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -1998,6 +2002,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0654-maximum-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -2042,6 +2047,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0783-minimum-distance-between-bst-nodes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heuristic Search
 |  |
