@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3783-mirror-distance-of-an-integer) |
@@ -1162,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3718-smallest-missing-multiple-of-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3841-palindromic-path-queries-in-a-tree) |
