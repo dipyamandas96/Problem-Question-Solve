@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0938-range-sum-of-bst](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0965-univalued-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0897-increasing-order-search-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0965-univalued-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1306-jump-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1306-jump-game-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3310-remove-methods-from-project) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0938-range-sum-of-bst](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0965-univalued-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -2048,6 +2051,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0897-increasing-order-search-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heuristic Search
 |  |
