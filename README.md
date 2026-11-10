@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0837-new-21-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0940-distinct-subsequences-ii) |
+| [0978-longest-turbulent-subarray](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0978-longest-turbulent-subarray) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
 | [1340-jump-game-v](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1406-stone-game-iii) |
@@ -1111,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0892-surface-area-of-3d-shapes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0892-surface-area-of-3d-shapes) |
 | [0904-fruit-into-baskets](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0930-binary-subarrays-with-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0978-longest-turbulent-subarray) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1030-matrix-cells-in-distance-order](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1037-valid-boomerang) |
@@ -1573,6 +1575,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0930-binary-subarrays-with-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0978-longest-turbulent-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
