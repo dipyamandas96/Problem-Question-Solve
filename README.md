@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0773-sliding-puzzle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0773-sliding-puzzle) |
+| [0837-new-21-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0836-rectangle-overlap) |
+| [0837-new-21-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0837-new-21-game) |
 | [0858-mirror-reflection](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0858-mirror-reflection) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0883-projection-area-of-3d-shapes) |
@@ -1558,6 +1560,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0837-new-21-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0837-new-21-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
@@ -2090,4 +2093,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
