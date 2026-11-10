@@ -1103,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0773-sliding-puzzle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0773-sliding-puzzle) |
 | [0812-largest-triangle-area](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0832-flipping-an-image) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0877-stone-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0892-surface-area-of-3d-shapes) |
@@ -1396,6 +1397,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -1428,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1140-stone-game-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1486,6 +1489,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -1561,6 +1565,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0837-new-21-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0837-new-21-game) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1871-jump-game-vii) |
@@ -1832,6 +1837,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0387-first-unique-character-in-a-string) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Primality Test
 |  |
 | ------- |
@@ -1871,6 +1877,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
