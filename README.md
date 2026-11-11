@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3875-construct-uniform-parity-array-i) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3691-maximum-total-subarray-value-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Backtracking
 |  |
 | ------- |
