@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0464-can-i-win) |
 | [0470-implement-rand10-using-rand7](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0470-implement-rand10-using-rand7) |
+| [0477-total-hamming-distance](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0478-generate-random-point-in-a-circle) |
 | [0483-smallest-good-base](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
@@ -1063,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0473-matchsticks-to-square](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0475-heaters) |
+| [0477-total-hamming-distance](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0491-non-decreasing-subsequences) |
@@ -1624,6 +1626,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0464-can-i-win](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0638-shopping-offers) |
