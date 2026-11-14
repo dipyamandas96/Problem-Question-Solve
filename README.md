@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0470-implement-rand10-using-rand7](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0478-generate-random-point-in-a-circle) |
+| [0479-largest-palindrome-product](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0497-random-point-in-non-overlapping-rectangles) |
@@ -1460,6 +1461,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0204-count-primes) |
+| [0479-largest-palindrome-product](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0479-largest-palindrome-product) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/papaicr7/Problem-Question-Solve/tree/master/3411-maximum-subarray-with-equal-products) |
