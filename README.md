@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0458-poor-pigs](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0464-can-i-win) |
+| [0470-implement-rand10-using-rand7](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0478-generate-random-point-in-a-circle) |
 | [0483-smallest-good-base](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0486-predict-the-winner) |
@@ -2024,6 +2025,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0382-linked-list-random-node](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0398-random-pick-index) |
+| [0470-implement-rand10-using-rand7](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0478-generate-random-point-in-a-circle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0519-random-flip-matrix) |
@@ -2077,6 +2079,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Rejection Sampling
 |  |
 | ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0478-generate-random-point-in-a-circle) |
 ## Bitmask
 |  |
@@ -2119,5 +2122,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Probability and Statistics
 |  |
 | ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0470-implement-rand10-using-rand7) |
 | [0837-new-21-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
