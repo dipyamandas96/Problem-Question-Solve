@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0412-fizz-buzz) |
 | [0420-strong-password-checker](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0420-strong-password-checker) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0396-rotate-function](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0441-arranging-coins) |
@@ -1615,6 +1617,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0393-utf-8-validation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0464-can-i-win) |
