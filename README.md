@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0551-student-attendance-record-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0606-construct-string-from-binary-tree) |
 | [0657-robot-return-to-origin](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0657-robot-return-to-origin) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0556-next-greater-element-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0564-find-the-closest-palindrome) |
 | [0593-valid-square](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0593-valid-square) |
 | [0679-24-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
