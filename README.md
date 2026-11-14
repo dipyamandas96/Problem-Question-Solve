@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0551-student-attendance-record-i) |
+| [0556-next-greater-element-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0606-construct-string-from-binary-tree) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0537-complex-number-multiplication](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0553-optimal-division) |
+| [0556-next-greater-element-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0556-next-greater-element-iii) |
 | [0593-valid-square](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0593-valid-square) |
 | [0679-24-game](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -1328,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0581-shortest-unsorted-continuous-subarray) |
