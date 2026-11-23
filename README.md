@@ -679,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0460-lfu-cache](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Stack
 |  |
@@ -1355,6 +1356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0658-find-k-closest-elements) |
 | [0832-flipping-an-image](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0876-middle-of-the-linked-list) |
 | [1861-rotating-the-box](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1861-rotating-the-box) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2161-partition-array-according-to-given-pivot) |
