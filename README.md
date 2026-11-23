@@ -678,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0445-add-two-numbers-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0706-design-hashmap) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Stack
 |  |
@@ -845,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0691-stickers-to-spell-word](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0706-design-hashmap) |
 | [0756-pyramid-transition-matrix](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0756-pyramid-transition-matrix) |
 | [0904-fruit-into-baskets](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0930-binary-subarrays-with-sum) |
@@ -1127,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0692-top-k-frequent-words) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0705-design-hashset](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -1786,6 +1789,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0535-encode-and-decode-tinyurl](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0706-design-hashmap) |
 | [1352-product-of-the-last-k-numbers](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
@@ -1869,6 +1873,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0535-encode-and-decode-tinyurl](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0706-design-hashmap) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Z Algorithm
 |  |
