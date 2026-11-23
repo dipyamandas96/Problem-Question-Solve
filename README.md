@@ -676,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0460-lfu-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/papaicr7/Problem-Question-Solve/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Stack
 |  |
@@ -820,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0454-4sum-ii) |
+| [0460-lfu-cache](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0496-next-greater-element-i) |
@@ -1777,6 +1779,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1352-product-of-the-last-k-numbers](https://github.com/papaicr7/Problem-Question-Solve/tree/master/1352-product-of-the-last-k-numbers) |
@@ -1786,6 +1789,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/papaicr7/Problem-Question-Solve/tree/master/0460-lfu-cache) |
 ## Merge Sort
 |  |
 | ------- |
